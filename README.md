@@ -4,13 +4,17 @@ A simple Python script to check whether there is an active internet connection o
 
 ## Installation
 
-# Clone the repository
-git clone https://github.com/ITheWatcher/Check-internet-connection
+1. Clone the repository:
 
-# Navigate to the project directory
-cd Check-internet-connection
+   ```bash
+   git clone https://github.com/ITheWatcher/Check-internet-connection
 
-# Run the script
-python internet_checker.py
+2. Navigate to the project directory:
 
+   ```bash
+   cd Check-internet-connection
 
+3. Run the script:
+   
+   ```bash
+   python internet_checker.py
