@@ -34,7 +34,7 @@ class InternetChecker:
 
 InternetChecker = InternetChecker()
 check_module('requests')
-os.system("cls")
+os.system("clear")
 if InternetChecker.check_connection():
     print("Internet connection is available.")
 else:
