@@ -1,6 +1,6 @@
 # Internet Connection Checker
 
-A simple Python script to check whether there is an active internet connection or not.
+A simple Python script to check whether there is an active internet connection or not on your device.
 
 ## Installation
 
