@@ -8,3 +8,5 @@ A simple Python script to check whether there is an active internet connection o
 
    ```bash
    git clone https://github.com/ITheWatcher/Check-internet-connection
+
+   cd Check-internet-connection
